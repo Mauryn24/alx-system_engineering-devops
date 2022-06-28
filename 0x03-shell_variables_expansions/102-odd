@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | per1 -ne 'printf $. % 2 == 1'
+paste - - | cut -f1
