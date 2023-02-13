@@ -1,2 +1,2 @@
-#/bin/bash
-print "hello world\n"
+#!/bin/bash
+print "Hello, World\n"
